@@ -3,7 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ectraclase4.exepciones.com;
+package extraclase4.exepciones.com;
+
 
 /**
  *
@@ -15,7 +16,10 @@ public class MainThrow {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-    }
+        ElThrow elThrow = new ElThrow();
+        String archivo = "ocejemplo.txt";
+        elThrow.abrirdoc(archivo);
+
+    }}
     
-}
+

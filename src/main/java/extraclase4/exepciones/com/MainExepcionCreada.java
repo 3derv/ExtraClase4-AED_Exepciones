@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package ectraclase4.exepciones.com;
+package extraclase4.exepciones.com;
 
 /**
  *
